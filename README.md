@@ -1,1 +1,3 @@
-# VB.NET-Steam-Server-Query-A2S_INFO
+# VB.NET-Steam-Server-Query
+
+Based on https://developer.valvesoftware.com/wiki/Server_queries
